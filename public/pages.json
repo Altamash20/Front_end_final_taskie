@@ -1,0 +1,18 @@
+[{
+    "link":{"text":"Home", "url": "index.html"},
+    "pageTitle": "Home Page",
+    "content": "This is the home content",
+    "published": true
+},
+{
+    "link":{"text":"To-do List", "url": "index.html"},
+    "pageTitle": "Todo List",
+    "content": "This is the to-do content",
+    "published": true
+},
+{
+    "link":{"text":"New Task", "url": "index.html"},
+    "pageTitle": "New Task",
+    "content": "This is the newTask content",
+    "published": false
+}]
